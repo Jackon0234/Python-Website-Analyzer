@@ -17,12 +17,9 @@ Bu araç, web siteleri üzerinde derinlemesine teknik analiz, güvenlik taramas�
    pip install -r requirements.txt
 .env dosyasını düzenleyin ve Telegram Tokeninizi girin:
 
-Kod snippet'i
 
 BOT_TOKEN=12345:ABC...
 Botu başlatın:
-
-Bash
 
 # Windows için
 baslat.bat
