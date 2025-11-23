@@ -1,4 +1,4 @@
-# 🕵️‍♂️ R10 Web X-RAY Bot v2.1
+# 🕵️‍♂️ Jackon Web X-RAY Bot 
 
 Bu araç, web siteleri üzerinde derinlemesine teknik analiz, güvenlik taraması ve altyapı tespiti yapan, Telegram tabanlı profesyonel bir OSINT aracıdır.
 
