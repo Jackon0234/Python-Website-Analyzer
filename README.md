@@ -15,3 +15,19 @@ Bu araç, web siteleri üzerinde derinlemesine teknik analiz, güvenlik taramas�
 1. Gerekli kütüphaneleri yükleyin (veya baslat.bat kullanın):
    ```bash
    pip install -r requirements.txt
+.env dosyasını düzenleyin ve Telegram Tokeninizi girin:
+
+Kod snippet'i
+
+BOT_TOKEN=12345:ABC...
+Botu başlatın:
+
+Bash
+
+# Windows için
+baslat.bat
+
+# Terminal için
+python main.py
+📝 Kullanım
+Botunuza /start yazın ve analiz etmek istediğiniz siteyi (örn: r10.net) gönderin.
