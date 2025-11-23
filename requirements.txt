@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+fake-useragent
+dnspython
+aiogram
+python-dotenv
+python-whois
